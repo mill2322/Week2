@@ -3,6 +3,8 @@ body {
   margin: 0 auto;
   width: 960px;
   background: #ccc;
+  border-style:solid;
+  border-left: thin double #fff000;
 }
 
 article {
